@@ -1,0 +1,10 @@
+body {
+    background-color: wheat;
+    color:rgb(33, 65, 97);
+}
+a{
+    text-decoration: none;
+}
+.program{border: ridge; text-align:center;}
+.datorn{text-align: right;}
+.mig{border-radius: ;}
