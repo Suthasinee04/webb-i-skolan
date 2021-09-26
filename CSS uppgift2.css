@@ -1,0 +1,12 @@
+body {
+    background-color: wheat;
+    color:rgb(33, 65, 97);
+}
+.namn {font-size: 22px; font-family: Arial, Helvetica, sans-serif;} 
+a{
+    text-decoration: none; color: coral;
+}
+.program{ text-align:center; background-color: cornsilk;}
+.program1{background-color: cornsilk;}
+.datorn{text-align: right;}
+.mig{ border: ridge;}
