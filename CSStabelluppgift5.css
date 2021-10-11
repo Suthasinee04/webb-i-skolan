@@ -1,0 +1,16 @@
+tbody tr:nth-child(1){
+    background-color: burlywood;
+}
+tbody tr:nth-child(3){
+    background-color:burlywood;
+}
+tbody tr:nth-child(2){
+    background-color: red;
+}
+tbody tr:nth-child(4){
+    background-color: red;
+}
+
+thead tr:nth-child(1){
+    background-color: coral;
+}
