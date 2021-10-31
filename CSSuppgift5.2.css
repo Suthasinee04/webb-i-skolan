@@ -1,0 +1,25 @@
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 25%;
+}
+th, td{
+    border: 1px solid black;
+    padding: 45px;
+}
+
+.blå{
+    background-color: #3c99dc;
+}
+.röd{
+    background-color: #c62828;
+}
+.gul{
+    background-color:yellow;
+}
+.svart{
+    background-color: black;
+}
+.grön{
+    background-color: #76ff03;
+}
